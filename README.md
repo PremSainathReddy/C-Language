@@ -1,2 +1,2 @@
-# C-Language
-Projects
+# DSA-C_LANGUAGE
+DSA
